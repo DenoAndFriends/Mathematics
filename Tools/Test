@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+
+clear
+
+
+deno test \
+    Tests
