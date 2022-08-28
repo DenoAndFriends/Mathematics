@@ -5,4 +5,4 @@ clear
 
 
 deno test \
-    Tests
+    Tests/**
